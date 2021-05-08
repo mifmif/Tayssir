@@ -67,7 +67,7 @@
     "rxjs": "~6.5.0",
     "swagger-ui-express": "^4.1.4",
     "twilio": "^3.41.1",
-    "typeorm": "^0.2.24",
+    "typeorm": "^0.2.25",
     "zone.js": "^0.10.2"
   },
   "devDependencies": {
